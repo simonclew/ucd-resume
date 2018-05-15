@@ -3,7 +3,7 @@
 /*-------------------------------------------colors*/
 
 .bg-color-name-title {
-    background-color: #676767;
+    background-color: #6767679c;
 }
     
 .bg-color-three-reasons {
@@ -174,7 +174,7 @@ header {
 
 footer {
 
-    background-color: #525252;
+    background-color: #6767679c;;
     color: #fafafa;
     min-height: 126px;
 
@@ -227,7 +227,15 @@ footer .cv-pdf i:hover {
 
 .three-reasons-icon{
     font-size: 26px;
-    color: #ba9077
+    color: #5a5c51;
+    
+}
+
+/*-------------------------------------------Two skills*/
+
+.two-skills-icon{
+    font-size: 26px;
+    color: #5a5c51;
     
 }
 
